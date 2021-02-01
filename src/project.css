@@ -1,0 +1,79 @@
+.projects-title {
+    padding-top: 8vh;
+    margin-bottom: 7vh;
+    text-align: left;
+    padding-left:12vw;
+    font-size: 4.5vh;
+    font-weight: bold;
+}
+  
+.project {
+    height: 90vh;
+    background-color:rgb(248, 246, 246)
+}
+  
+.project-section {
+    display: inline-flex
+}
+  
+.project-section {
+    padding-left: 0;
+}
+  
+.project-card {
+    margin: 0vh 2vw;
+    background-color: rgb(255, 255, 255);
+    font-size: 1.9vh;
+    filter: drop-shadow(.3rem .3rem 0 rgb(224, 224, 224));
+}
+  
+  
+.card-image {
+    width: 18vw;
+    height: 30vh;
+    object-fit: cover;
+    overflow: hidden;
+}
+  
+.project-image {
+    width: 18vw;
+    height: 30vh;
+    object-fit: cover;
+    overflow: hidden;
+    border-radius: .7rem .7rem 0 0;
+}
+  
+.card-title {
+    padding-top: 1vh;
+    font-weight: bold;
+    font-size: 1.5vw;
+}
+  
+.card-description {
+    text-align: left;
+    padding-left: .8vw;
+    width: 17vw;
+    height: 6vw;
+    font-size: .95vw;
+}
+  
+.card-tech {
+    width: 17vw;
+    height: 1.7vw;
+    font-size: .8vw;
+}
+  
+#card-button {
+    margin: 0vh .8vw 2vh .8vw;
+    background-color:rgba(45, 119, 189, 0.473);
+    font-size: .6vw;
+    width: 7vw;
+    border-radius: .4rem;
+    font-weight: bold;
+}
+  
+#card-button:hover {
+    background-color:rgba(17, 59, 196, 0.493);
+    border-color:rgba(255, 255, 255, 0);
+}
+  

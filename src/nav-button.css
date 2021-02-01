@@ -1,0 +1,37 @@
+#nav-buttons {
+	float: right;
+	margin: 0 2vw 2vw 0em;
+	padding: 0;
+  list-style: none; 
+  font-size: 1rem;
+  background-color: rgba(255, 255, 255, 0);
+  width: 100vw;
+  height: 7vh;
+  font-size: 1.2vw;
+}
+  
+#nav-buttons li {
+  float: right; 
+  background-color: rgba(255, 255, 255, 0);
+}
+
+#nav-buttons li a {
+  display: block;
+  padding: 3vh 2vw;
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(233, 233, 233);
+  background-color: rgba(255, 255, 255, 0);
+}
+
+#nav-buttons li a:hover {
+  color: rgb(255, 255, 255);
+}
+
+#navigation {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.nav-link {
+  cursor: pointer;
+}

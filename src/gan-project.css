@@ -1,0 +1,48 @@
+.gan-project {
+    background-color: rgb(14, 15, 19);
+    min-height: 100vh;
+    width: 100vw;
+    padding-left: 7vw;
+    display: inline-block;
+}
+
+.DCGAN-description {
+    color:rgb(255, 255, 255);
+    font-weight: normal;
+    margin: 2vw 0rem 0rem 0rem;
+    font-family: Helvetica;
+    font-size: 1vw;
+    width: 35vw;
+}
+
+.GAN-image {
+    margin-top: 3vw;
+    height: auto;
+    width: 10vw;
+}
+
+.gan-description {
+    margin: 5vw 0rem 0rem 3.5vw;
+    min-width: 40vw;
+    text-align: left;
+    font-size: large;
+    
+}
+
+.gan-title {
+    color:rgb(255, 255, 255);
+    font-size: 2vw;
+    font-weight: bolder;
+}
+
+#gan-button {
+    margin: 2rem 0rem 0rem 0rem;
+    background-color: rgb(38, 38, 46);
+}
+  
+#gan-button:hover {
+    background-color:rgb(74, 74, 77);
+    outline: none;
+    border-color: rgb(114, 112, 112)
+}
+  

@@ -1,0 +1,53 @@
+.home {
+    background-image: url("./images/background.jpg");
+    min-height: 100vh;
+    display: block;
+}
+
+.hi {
+    text-align: left;
+    color:rgb(255, 255, 255);
+    font-size: 2.5vw;
+}
+
+.intro {
+    padding: 25vh 0rem 0rem 10vw;
+    float: left;
+}
+
+.name {
+    font-size: 5vw;
+    background-color: none;
+    color:rgb(255, 255, 255);
+    text-align: left;
+}
+
+.personal {
+    text-align: left;
+    color:rgb(255, 255, 255);
+    max-width: 30vw;
+    font-size: 1.5vw;
+}
+
+.text-animation {
+    font-weight: normal;
+}
+
+#github-button {
+    margin: 0rem 2vw 0rem 0rem;
+    background-color:rgba(17, 110, 196, 0.26);
+}
+  
+#github-button:hover {
+    background-color:rgba(17, 59, 196, 0.493);
+    border-color:rgba(255, 255, 255, 0);
+}
+  
+#linkedin-button:hover {
+    background-color:rgba(17, 59, 196, 0.493);
+    border-color:rgba(255, 255, 255, 0);
+}
+  
+#linkedin-button {
+    background-color:rgba(17, 110, 196, 0.26);
+}

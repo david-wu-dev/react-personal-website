@@ -1,0 +1,47 @@
+.rl-content {
+    margin: 5vw 0rem 0rem 5vw;
+    min-width: 40vw;
+    text-align: left;
+    font-size: large
+}
+
+.rl-title {
+    color:rgb(255, 255, 255);
+    font-size: 1.5vw;
+    font-weight: bolder;
+}
+  
+  
+.rl-description {
+    color:rgb(255, 255, 255);
+    font-weight: normal;
+    margin: 2vw 0rem 0rem .5vw;
+    font-family: Helvetica;
+    font-size: 1vw;
+    width: 35vw;
+}
+  
+  
+.rl-project {
+    background-image: url("./background2temp.png");
+    min-height: 100vh;
+    width: 100vw;
+    padding-left: 7vw;
+}
+  
+#rl-code-button {
+    margin: 2rem 0rem 0rem 0rem;
+    background-color: rgb(59, 36, 65);
+}
+  
+#rl-code-button:hover {
+    background-color:rgb(90, 64, 97);
+    outline: none;
+    border-color: rgb(71, 61, 80)
+}
+
+.rl-image {
+    margin-top: 6vw;
+    height:fit-content;
+    width:fit-content;
+}

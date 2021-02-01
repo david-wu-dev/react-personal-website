@@ -1,0 +1,43 @@
+#App {
+  text-align: center;
+  display: block;
+}
+
+.btn-primary {
+  font-size: 1vw;
+  border-color:rgba(255, 255, 255, 0);
+}
+
+.buttons {
+  margin: 3vh 0rem 0rem 0rem;
+  float: left;
+}
+
+.content-box {
+  display: flex;
+  background-color: rgba(14, 15, 19, 0);
+  height: 10vw;
+}
+
+.pic {
+  display: inline-block;
+  padding: 0vh 0rem 0rem 7vw;
+  max-width: 35vw;
+}
+
+.back {
+  color:rgb(255, 255, 255);
+  background-color:rgba(224, 224, 224, 0);
+  outline: none;
+  border: none;
+  font-size: 2vh;
+  float: left;
+  padding-left: .5vw;
+  font-weight: 500;
+}
+
+.back-button {
+  padding-top: 5vw;
+}
+
+

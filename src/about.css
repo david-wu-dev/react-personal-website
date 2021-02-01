@@ -1,0 +1,39 @@
+.about {
+    padding-top: 5vh;
+    background: rgb(238, 238, 238);
+}
+  
+.about-content {
+    display: inline-flex;
+    padding-bottom: 7vh;
+  
+}
+  
+.about-text {
+    width: 40vw;
+    text-align: left;
+    text-indent: 1.5vw;
+    font-size: 1.1vw;
+}
+  
+.about-picture {
+    margin-left: 10vw;
+}
+  
+.about-container {
+    display: inline-block;
+}
+  
+.about-title {
+    margin-top: 8vh;
+    margin-bottom: 2vh;
+    text-align: left;
+    font-size: 2vw;
+    font-weight: bold;
+}
+  
+.david-pic {
+    width: 24vw;
+    height: auto;
+    padding: 11vh 0;
+}
